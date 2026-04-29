@@ -55,4 +55,4 @@ This project helped me understand:
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/breakout-game.git
+git clone https://github.com/AndCyrea/breakout-game.git
